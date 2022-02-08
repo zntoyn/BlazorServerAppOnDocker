@@ -1,0 +1,8 @@
+version: '3.4'
+
+services:
+  blazorserverappondocker:
+    image: ${DOCKER_REGISTRY-}blazorserverappondocker
+    build:
+      context: .
+      dockerfile: BlazorServerAppOnDocker/Dockerfile
