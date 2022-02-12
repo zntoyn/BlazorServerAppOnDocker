@@ -3,7 +3,7 @@ Tutorial can be found [Here](https://zntoyn.com/system-argumentexception-the-pat
 # Blazor Server Running On Docker Linux
 	1. Download and open the app
 	2. Right click on docker-compose and choose Set As Startup Project
-	3. From Solution configurations : choose Debug
+	3. From Solution configurations : choose Release
 	
 	
 	- System
